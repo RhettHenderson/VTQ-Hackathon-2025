@@ -39,7 +39,7 @@ We aimed to reduce the number of **CNOT gates** (a major cost in real quantum ha
 
 ### 🧰 Tools and Libraries
 - **Qiskit** – Circuit design, simulation, and measurement  
-- **SciPy (optimize)** – Parameter tuning and minimization  
+- **SciPy** – Parameter tuning and minimization  
 - **NumPy** – Numerical computations and vector manipulation  
 - **Matplotlib** – RMSE visualization and performance plotting  
 
@@ -48,7 +48,7 @@ We aimed to reduce the number of **CNOT gates** (a major cost in real quantum ha
 ### 📊 Results
 - Achieved faster RMSE convergence using shallow parameterized circuits.  
 - Reduced total CNOT count by over 40% while maintaining similar accuracy.  
-- Validated effectiveness of hybrid optimization for large qubit systems (6-qubit tests).
+- Validated effectiveness of hybrid optimization for large qubit systems.
 
 ---
 
