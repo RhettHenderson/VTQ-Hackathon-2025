@@ -6,7 +6,7 @@ Used Qiskit and Python libraries such as NumPy, SciPy, and Matplotlib for simula
 
 Implemented parameterized quantum circuits to approximate Grover iterates with reduced circuit depth.
 
-Analyzed the trade-off between CNOT gate count and accuracy by plotting RMSE versus circuit complexity.
+Analyzed CNOT gate count and accuracy by plotting RMSE versus circuit complexity.
 
 Designed and trained shallow ansatz circuits to achieve faster convergence with fewer quantum resources.
 
