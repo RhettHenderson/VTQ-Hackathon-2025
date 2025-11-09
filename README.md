@@ -59,11 +59,4 @@ We aimed to reduce the number of **CNOT gates** (a major cost in real quantum ha
 
 ---
 
-### 📁 Repository Contents
-- `1o_to_2o_code.ipynb` – Code for parameterized circuit and amplitude estimation tasks  
-- `task3_shallow_rmse_plot.ipynb` – Final task integrating shallow circuits and plotting results  
-- `report.pdf` – Detailed explanation of methods and results  
-
----
-
 <p align="center"><i>Developed as part of the VTQ 2025 Hackathon at Virginia Tech</i></p>
