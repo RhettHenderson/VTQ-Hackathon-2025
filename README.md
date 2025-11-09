@@ -1,3 +1,5 @@
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 <h1>VTQ 2025 Hackathon Submission</h1>
 
 <h3>Authors:</h3>
