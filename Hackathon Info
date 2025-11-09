@@ -1,0 +1,17 @@
+Participated in the Virginia Tech Quantum Hackathon 2025 focused on practical applications of quantum computing.
+
+Worked on problems related to Grover’s algorithm, quantum amplitude estimation, and circuit optimization.
+
+Used Qiskit and Python libraries such as NumPy, SciPy, and Matplotlib for simulation, optimization, and visualization.
+
+Implemented parameterized quantum circuits to approximate Grover iterates with reduced circuit depth.
+
+Analyzed the trade-off between CNOT gate count and accuracy by plotting RMSE versus circuit complexity.
+
+Designed and trained shallow ansatz circuits to achieve faster convergence with fewer quantum resources.
+
+Applied classical optimization techniques to maximize overlap between parametrized and target quantum states.
+
+Explored quantum error mitigation strategies and the impact of gate noise on algorithm performance.
+
+The VTQ hackathon consisted of 3 problem statements with Question 1 and 2 each having 15 parts namely a) to o). These two were independent of each other and led to part 3 which was the main criteria for deciding winners.
